@@ -1,0 +1,21 @@
+From a24a9fc3b640f87daac144c39fec5c183b60d95b Mon Sep 17 00:00:00 2001
+From: dhanadevops <dhana.devops@yahoo.com>
+Date: Tue, 12 Apr 2016 10:54:50 -0700
+Subject: [PATCH] added new file under new branch release1.0
+
+---
+ 123.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 123.txt
+
+diff --git a/123.txt b/123.txt
+new file mode 100644
+index 0000000..2e55e76
+--- /dev/null
++++ b/123.txt
+@@ -0,0 +1 @@
++this is the firsst line in release1.0 branch
+\ No newline at end of file
+-- 
+2.7.3.windows.1
+
